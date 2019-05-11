@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">DataBaseExercise</string>
+    <string name="product">Product</string>
+    <string name="amount">Amount</string>
+    <string name="shop">Shop</string>
+    <string name="a">Add Data</string>
+    <string name="v">View All</string>
+    <string name="m">Modify</string>
+    <string name="d">Delete</string>
+
 </resources>
