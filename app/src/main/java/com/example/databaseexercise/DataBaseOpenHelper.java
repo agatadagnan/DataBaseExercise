@@ -108,3 +108,16 @@ public class DataBaseOpenHelper extends SQLiteOpenHelper {
 
     //Ok if you are done here go back to the MainActivity.java for more work
 }
+
+
+// This is the second part, don't do it just yet, we will go back to it if we have time.
+
+/*
+        Now you will create your own table
+        Think of some kind of a list and create necessary Strings for it (name, columns etc). Then you will need a string like "CREATE" one.
+        Modify overridden methods, create new ones (to get all of the data and to insert the data).
+        Then go to the activity_main.xml file and add some buttons like i did earlier.
+        After that go to MainActivity.java and update the onCreate method, and add listeners to new buttons.
+        For the button that shows data you can use showData method.
+        Good Luck!
+ */
